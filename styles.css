@@ -1,0 +1,59 @@
+.blackRectBig {
+  display: block;
+  transform: translate(260px,171px);
+  position: relative;
+  width:840.37px;
+  height:700px;
+  z-index: 2;
+}
+
+.redCircle {
+  width: 422px;
+  height: 422px;
+  border-radius: 1000px;
+  background-color: #CA3636;
+  display: block;
+  transform: translate(910px,-640px);
+}
+
+.blackRectMed {
+  display: block;
+  transform: translate(1124px, -540px);
+  width: 245px;
+  height: 120px;
+}
+
+.blackRectLit {
+  display: block;
+  transform: translate(1223px, -581px);
+  width: 127.42px;
+  height: 42.42px;
+}
+
+.yellowRect {
+  display: block;
+  transform: translate(413px, -511px);
+  width: 732px;
+  height: 424px;
+}
+
+.blackLineHor {
+  display: block;
+  transform: translate(309px, -950px);
+  width: 732px;
+  height: 424px;
+}
+
+.redLine {
+  display: block;
+  transform: translate(148px, -1055px);
+  width: 295px;
+  height: 105px;
+}
+
+.blackLineVer {
+  display: block;
+  transform: translate(-110px, -1463px);
+  width: 803px;
+  height: 636px;
+}
