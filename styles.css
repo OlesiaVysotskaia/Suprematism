@@ -1,7 +1,5 @@
 .blackRectBig {
   position: absolute;
-  width: 840.37px;
-  height: 700px;
   z-index: 2;
 }
 
@@ -23,8 +21,9 @@
 
 .blackRectLit {
   position: absolute;
-  width: 127.42px;
-  height: 42.42px;
+  /* width: 127.42px;
+  height: 42.42px; */
+  z-index: 3;
 }
 
 .yellowRect {
@@ -50,7 +49,6 @@
 
 .blackLineVer {
   position: absolute;
-  top:
-  width: 803px;
-  height: 636px;
+  /* width: 803px;
+  height: 636px; */
 }
